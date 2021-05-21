@@ -122,7 +122,7 @@ function setupRW() {
 	debug_log("_______________________________________________________________________A T E N Ç Ã O ! ! !  NÃO DEIXE NADA PLUGADO NAS PORTAS USBs_______________________________________________________________________");
 	debug_log("");
 	debug_log("");
-	debug_log("_____________________________________________________A G U A R D E ! ! !  10 SEGUNDOS PARA O ENVIO DO HOST 75x	PARA O GUIA DO USUÁRIO E PARA NO NAVEGADOR.____________________________________________");
+	debug_log("_____________________________________________________A G U A R D E ! ! !  20 SEGUNDOS PARA O ENVIO DO HOST 75x	PARA O GUIA DO USUÁRIO E PARA NO NAVEGADOR.____________________________________________");
 
 	/* Getting code execution */
 	/* ... */
